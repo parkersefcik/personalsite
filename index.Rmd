@@ -1,0 +1,17 @@
+---
+title: "Old image"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+
+
+
+```{r pressure, echo=FALSE, out.width = '25%'}
+knitr::include_graphics("Pic1.png")
+```
+
+
